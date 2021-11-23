@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-11-19T06:05:41.552Z",
+        "start_timestamp": "2021-11-23T14:34:27.599Z",
         "line": 3,
         "name": "Ajio Adding Product From Home and Kitchen to Cart",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 13131452000,
+              "duration": 10013266600,
               "status": "passed"
             },
             "line": 4,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 9279668800,
+              "duration": 7614639200,
               "status": "passed"
             },
             "line": 5,
@@ -37,7 +37,7 @@
           },
           {
             "result": {
-              "duration": 2720435200,
+              "duration": 1914903200,
               "status": "passed"
             },
             "line": 6,
@@ -49,7 +49,7 @@
           },
           {
             "result": {
-              "duration": 10678863900,
+              "duration": 8252273700,
               "status": "passed"
             },
             "line": 7,
@@ -61,7 +61,7 @@
           },
           {
             "result": {
-              "duration": 1102366900,
+              "duration": 343804100,
               "status": "passed"
             },
             "line": 8,
@@ -73,7 +73,7 @@
           },
           {
             "result": {
-              "duration": 1856933800,
+              "duration": 2816387300,
               "status": "passed"
             },
             "line": 9,
@@ -85,7 +85,7 @@
           },
           {
             "result": {
-              "duration": 3085224100,
+              "duration": 4041685100,
               "status": "passed"
             },
             "line": 10,

@@ -1,5 +1,6 @@
 package testRunner;
 
+import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
@@ -29,5 +30,10 @@ public class AddtocartRunner {
 		FileReaderManager.getInstanceFR().getInstance();
 		String browser = ConfigurationReader.getbrowser();
 		driver = Base_Class.getBrowser(browser);
+	}
+	
+	@AfterClass
+	public static void teardown() {
+		driver.quit();
 	}
 }

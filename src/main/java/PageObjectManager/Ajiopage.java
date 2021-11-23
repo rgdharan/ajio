@@ -18,7 +18,7 @@ public class Ajiopage {
 	@FindBy (xpath = "//a[contains(text(),'HOME AND KITCHEN')]")
 	private WebElement kitchen;
 	
-	@FindBy (xpath = "//div[contains(text(),'Reversible King-Size Comforter')]")
+	@FindBy (xpath = "//div[contains(text(),'Geometric Printed 210 TC Cotton King Double Bed Sheet with 2 Pillow Covers')]")
 	private WebElement product;
 	
 	@FindBy (xpath = "//span[contains(text(),'ADD TO BAG')]")
